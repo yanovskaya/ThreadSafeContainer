@@ -1,7 +1,7 @@
 Thread Safe Container (playground)
 =======
 
-Thread Safe Container for Array <Int>.
+Thread Safe Container for Array `<Int>`.
 
 Playground is accompanied by markup and comments in Russian.
 
